@@ -23,20 +23,27 @@ This application creates the backend of a e-comerce website by useing Express.js
 
 `npm install`.
 
-And then run the following commands to install the dependencies: 
+And then run the following commands to install the dependencies if you are not sure if they are up to date: 
 
-`npm install inquirer`
-
-`npm install express`
+`npm i inquirer`
+`npm i sequelize`
+`npm i dotenv`
+`npm i express`
 
 **[⬆ back to top](#table-of-contents)**
 
 
 ## Usage
 Type the following command in your termimal:
-`mysql -u root -p` -- connect to your database and then run:
+`mysql -u root -p` -- connect to your database and then run: 
 
 `source schema.sql`
+
+Quit mySQL shell. Run the following command to seed the files:
+
+`npm run seed`.
+
+Then run:
 
 `npm start`
 
