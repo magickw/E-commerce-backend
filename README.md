@@ -55,8 +55,9 @@ Then run:
 
 ## Demo
 Below is the demostration of this application:
-<img src="#" alt="demo" />
-<img src="#" alt="screenshot" />
+<img src="images/demo.gif" alt="demo" />
+Here is the screenshot:
+<img src="images/Category.png" alt="screenshot" />
 
 **[⬆ back to top](#table-of-contents)**
 
