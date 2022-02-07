@@ -26,8 +26,11 @@ This application creates the backend of a e-comerce website by useing Express.js
 And then run the following commands to install the dependencies if you are not sure if they are up to date: 
 
 `npm i inquirer`
+
 `npm i sequelize`
+
 `npm i dotenv`
+
 `npm i express`
 
 **[⬆ back to top](#table-of-contents)**
