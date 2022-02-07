@@ -54,7 +54,7 @@ Then run:
 
 
 ## Demo
-Below is the demostration of this application:
+Below is the demostration of this application. The full walk-through video can be found on my <a href="https://youtu.be/Brnw8__pX88">Youtube Channel</a>.
 <img src="images/demo.gif" alt="demo" />
 Here is the screenshot:
 <img src="images/Category.png" alt="screenshot" />
